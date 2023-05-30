@@ -1,0 +1,41 @@
+touch - Creates a new empty file.
+
+cat - Displays the contents of a file.
+
+echo - Prints a message to the console.
+
+man - Displays the manual page for a command.
+
+help - Displays help for a command.
+
+cp - Copies a file or directory.
+
+mv - Moves a file or directory.
+
+rm - Removes a file or directory.
+
+grep - Searches for a pattern in a file.
+
+sed - Edits a file line by line.
+
+chmod - Changes the permissions on a file or directory.
+
+chown - Changes the owner of a file or directory.
+
+chgrp - Changes the group of a file or directory.
+
+ln - Creates a symbolic link to a file or directory.
+
+rm -rf - Removes a directory and all of its contents recursively.
+
+sudo - Runs a command as root.
+
+su - Changes to a different user account.
+
+crontab - Edits the crontab file, which allows you to schedule tasks to run at specific times.
+
+at - Runs a command at a specific time.
+
+jobs - Lists the currently running jobs.
+
+lorraine.simotwo22@students.dkut.ac.ke

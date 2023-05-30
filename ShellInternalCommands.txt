@@ -1,0 +1,26 @@
+alias -> create an alias
+
+cd -> change directory
+
+ls -> list files in a directory
+
+pwd -> print current working directory
+
+grep -> search files for specific text
+
+man -> display help commands
+
+sort -> sort lines in a text file
+
+mkdir -> Creates a new directory
+
+rmdir -> Removes an empty directory
+
+touch - Creates a new empty file
+
+cat - Displays the contents of a file
+
+echo - Prints a message to the console.
+
+help - Displays help for a command.
+
