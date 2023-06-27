@@ -1,3 +1,3 @@
-# SystemProgrammingAssign
+# Systems Programming Assignments
 
-These are all of the practical tasks we did for Theory of Computation.
+Practical Assessments for Theory of Computation.
