@@ -1,3 +1,3 @@
 # Systems Programming Assignments
 
-Practical Assessments for Theory of Computation.
+Practical Assessments for Systems Programming mainly using C.
